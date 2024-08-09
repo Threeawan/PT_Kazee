@@ -1,1 +1,2 @@
 Membuat sebuah aplikasi menggunakan framework laravel
+Batas waktu pengerjaan sampai jam 21.00
